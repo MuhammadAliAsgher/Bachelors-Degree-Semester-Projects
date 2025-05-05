@@ -1,12 +1,13 @@
 # Semester Projects
 
-This repository contains my semester projects from my bachelor's degree, showcasing my work in C and Java. Each project is stored in its own folder with a dedicated README file for detailed information.
+This repository contains my semester projects from my bachelor's degree, showcasing my work in C, Java, and PHP. Each project is stored in its own folder with a dedicated README file for detailed information.
 
 ## Table of Contents
 - [Semester 1: 4x4 Sudoku Solver](#semester-1-4x4-sudoku-solver)
 - [Semester 2: University Transport Management System](#semester-2-university-transport-management-system)
 - [Semester 3: BRT Red Line Ticketing System](#semester-3-brt-red-line-ticketing-system)
 - [Semester 4: Train Booking Application](#semester-4-train-booking-application)
+- [Semester 6: Airline Ticket Reservation System](#semester-6-airline-ticket-reservation-system)
 
 ## Semester 1: 4x4 Sudoku Solver
 <details>
@@ -70,6 +71,23 @@ This repository contains my semester projects from my bachelor's degree, showcas
   - MySQL database integration for data storage.
 - **Navigation**: [Semester 4 Project Folder](./Semester%204%20Project/)
 - **Details**: See [Semester 4 Project/README.md](./Semester%204%20Project/README.md) for installation and usage instructions.
+
+</details>
+
+## Semester 6: Airline Ticket Reservation System
+<details>
+<summary>View Details</summary>
+
+- **Language**: PHP
+- **Description**: A web application for reserving airline tickets, managing flights, and handling customer bookings.
+- **Key Features**:
+  - Search flights by date and destination.
+  - Book and manage reservations.
+  - Admin interface for flight and aircraft management.
+  - Built with PHP and MySQL.
+  - Responsive design using Bootstrap and Font Awesome.
+- **Navigation**: [Semester 6 Project Folder](./Semester%206%20Project/)
+- **Details**: See [Semester 6 Project/README.md](./Semester%206%20Project/README.md) for installation and usage instructions.
 
 </details>
 
