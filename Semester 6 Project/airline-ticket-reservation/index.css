@@ -1,0 +1,73 @@
+/* .page {
+    width: auto;
+    height: auto;
+  } */
+ 
+  .linkspart {
+    width: auto;
+    height: 30px;
+    margin-top: 5px;
+    background-color: rgb(12, 100, 198);
+  }
+ 
+ 
+  .linkspart a {
+    color: rgb(245, 246, 251);
+    text-decoration: none;
+  }
+ 
+  .linkspart a:hover {
+    background-color: rgb(245, 246, 251);
+    color: rgb(12, 100, 198);
+  }
+ 
+ 
+  .bodypart {
+    width: 1325px;
+    height: 600px;
+    margin-top: 15px;
+  }
+ 
+ 
+  /* .bodypart .imagepart {
+    width: 100%;
+    height: auto;
+    background-image: url('./images/pia_plane.jpg');
+    background-repeat: no-repeat;
+    display: block;
+  } */
+ 
+  .bodypart .newspart h2 {
+    color: green;
+    margin-left: 18px;
+  }
+ 
+ 
+  .bodypart .newspart {
+    width: 650px;
+    height: 520px;
+    float: right;
+  }
+ 
+  .bodypart .newspart .news {
+    width: 600px;
+    height: 400px
+  }
+ 
+  .bodypart .newspart .news h4 {
+    color: blue;
+  }
+ 
+ 
+  .bodypart h3 {
+    color: blue;
+    text-align: center;
+  }
+ 
+ 
+  .footerpart {
+    width: auto;
+    height: 30px;
+    margin-top: 5px;
+    background-color: rgb(12, 100, 198);
+  }
