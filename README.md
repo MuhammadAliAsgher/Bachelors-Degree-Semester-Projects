@@ -1,9 +1,10 @@
 # Semester Projects
 
-This repository contains my semester projects from my bachelor's degree, showcasing my work in C. Each project is stored in its own folder with a dedicated README file for detailed information.
+This repository contains my semester projects from my bachelor's degree, showcasing my work in C and Java. Each project is stored in its own folder with a dedicated README file for detailed information.
 
 ## Table of Contents
 - [Semester 1: 4x4 Sudoku Solver](#semester-1-4x4-sudoku-solver)
+- [Semester 2: University Transport Management System](#semester-2-university-transport-management-system)
 
 ## Semester 1: 4x4 Sudoku Solver
 <details>
@@ -21,9 +22,25 @@ This repository contains my semester projects from my bachelor's degree, showcas
 
 </details>
 
+## Semester 2: University Transport Management System
+<details>
+<summary>View Details</summary>
+
+- **Language**: Java
+- **Description**: A desktop application to manage drivers, students, and routes for a university transportation system.
+- **Key Features**:
+  - Add, update, and delete driver and student records.
+  - Manage route information.
+  - GUI built with Java Swing.
+  - File-based storage for data persistence.
+- **Navigation**: [Semester 2 Project Folder](./Semester%202%20Project/)
+- **Details**: See [Semester 2 Project/README.md](./Semester%202%20Project/README.md) for installation and usage instructions.
+
+</details>
+
 ## Getting Started
-To explore the project:
-1. Navigate to the project folder using the link above.
+To explore any project:
+1. Navigate to the project folder using the links above.
 2. Read the project's `README.md` for specific setup and usage instructions.
 3. Clone the repository: `git clone <repo-url>`
 
