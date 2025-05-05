@@ -30,7 +30,7 @@
 
 
 		if (empty($data_missing) && $_POST['g-recaptcha-response'] != "") {
-			$secret = '6LeBxNkpAAAAAF5V0LLq7axYhl3j3D1Yb0CAl_tj';
+			$secret = 'your_secret_key';
 			$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g-recaptcha-response']);
 			$responseData = json_decode($verifyResponse);
 			if ($responseData->success) {
