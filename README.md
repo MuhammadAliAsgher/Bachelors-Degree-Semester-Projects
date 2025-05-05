@@ -5,6 +5,7 @@ This repository contains my semester projects from my bachelor's degree, showcas
 ## Table of Contents
 - [Semester 1: 4x4 Sudoku Solver](#semester-1-4x4-sudoku-solver)
 - [Semester 2: University Transport Management System](#semester-2-university-transport-management-system)
+- [Semester 3: BRT Red Line Ticketing System](#semester-3-brt-red-line-ticketing-system)
 
 ## Semester 1: 4x4 Sudoku Solver
 <details>
@@ -35,6 +36,22 @@ This repository contains my semester projects from my bachelor's degree, showcas
   - File-based storage for data persistence.
 - **Navigation**: [Semester 2 Project Folder](./Semester%202%20Project/)
 - **Details**: See [Semester 2 Project/README.md](./Semester%202%20Project/README.md) for installation and usage instructions.
+
+</details>
+
+## Semester 3: BRT Red Line Ticketing System
+<details>
+<summary>View Details</summary>
+
+- **Language**: Java
+- **Description**: A ticketing system for the BRT Red Line, allowing users to book seats and manage travel history.
+- **Key Features**:
+  - Gender-based seat booking.
+  - Travel history tracking.
+  - Built with Java Swing for a desktop interface.
+  - File-based storage for seat availability and user data.
+- **Navigation**: [Semester 3 Project Folder](./Semester%203%20Project/)
+- **Details**: See [Semester 3 Project/README.md](./Semester%203%20Project/README.md) for installation and usage instructions.
 
 </details>
 
