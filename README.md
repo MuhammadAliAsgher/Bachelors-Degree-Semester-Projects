@@ -6,6 +6,7 @@ This repository contains my semester projects from my bachelor's degree, showcas
 - [Semester 1: 4x4 Sudoku Solver](#semester-1-4x4-sudoku-solver)
 - [Semester 2: University Transport Management System](#semester-2-university-transport-management-system)
 - [Semester 3: BRT Red Line Ticketing System](#semester-3-brt-red-line-ticketing-system)
+- [Semester 4: Train Booking Application](#semester-4-train-booking-application)
 
 ## Semester 1: 4x4 Sudoku Solver
 <details>
@@ -55,6 +56,23 @@ This repository contains my semester projects from my bachelor's degree, showcas
 
 </details>
 
+## Semester 4: Train Booking Application
+<details>
+<summary>View Details</summary>
+
+- **Language**: Java
+- **Description**: A desktop application for booking train tickets, managing reservations, and viewing schedules.
+- **Key Features**:
+  - User registration and login.
+  - Search and book train tickets.
+  - View and manage reservations.
+  - Built with Java Swing for the GUI.
+  - MySQL database integration for data storage.
+- **Navigation**: [Semester 4 Project Folder](./Semester%204%20Project/)
+- **Details**: See [Semester 4 Project/README.md](./Semester%204%20Project/README.md) for installation and usage instructions.
+
+</details>
+
 ## Getting Started
 To explore any project:
 1. Navigate to the project folder using the links above.
@@ -66,3 +84,6 @@ Contributions or suggestions are welcome! Please open an issue or submit a pull 
 
 ## License
 This repository is licensed under the MIT License. See individual project READMEs for specific licensing details.
+
+## Additional Notes
+Note: Some projects have been removed due to unforeseen circumstances, but I'm happy to discuss my work!
