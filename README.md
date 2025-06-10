@@ -95,7 +95,7 @@ This repository contains my semester projects from my bachelor's degree, showcas
 To explore any project:
 1. Navigate to the project folder using the links above.
 2. Read the project's `README.md` for specific setup and usage instructions.
-3. Clone the repository: `git clone <repo-url>`
+3. Clone the repository: `git clone https://github.com/MuhammadAliAsgher/Bachelors-Degree-Semester-Projects.git`
 
 ## Contributing
 Contributions or suggestions are welcome! Please open an issue or submit a pull request.
